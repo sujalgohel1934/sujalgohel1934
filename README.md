@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**sujalgohel1934/sujalgohel1934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **sujal Gohel** — a curious learner, tech enthusiast, and someone who believes in building things that make life simpler (or at least more fun!).
 
-Here are some ideas to get you started:
+## 🌟 About Me
+- 🎓 Exploring **computer science and software development**  
+- 🛠 Interested in **databases, web development, and AI**  
+- 📚 Constantly learning — because tech never stops changing!  
+- ☕ Runs on **coffee + curiosity**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Goals
+- Deepen my understanding of **data structures, algorithms, and OOP**  
+- Build **practical projects** that solve real problems  
+- Learn **modern frameworks** to create clean, responsive apps  
+- Share my progress (and failures!) openly — because growth comes from both  
+
+## 🧰 Tech Stack (Always Growing!)
+- **Languages:** C++, Java, Python, SQL  
+- **Web:** HTML, CSS, JavaScript  
+- **Tools:** Git, VS Code, MySQL  
+
+## 📫 Let's Connect
+- [emial](sujalgohel1934@gmail.com)
+
+*"Always learning, always building."*
