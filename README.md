@@ -20,6 +20,6 @@ I'm **sujal Gohel** — a curious learner, tech enthusiast, and someone who beli
 - **Tools:** Git, VS Code, MySQL  
 
 ## 📫 Let's Connect
-- [emial](sujalgohel1934@gmail.com)
+- [email](sujalgohel1934@gmail.com)
 
 *"Always learning, always building."*
